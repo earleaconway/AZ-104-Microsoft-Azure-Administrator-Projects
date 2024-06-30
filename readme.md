@@ -1,2 +1,2 @@
-# AZ-104-MicrosoftAzureAdministrator-Prohects
+# AZ-104-Microsoft Azure Administrator-Projects
  Microsoft Learn Project
